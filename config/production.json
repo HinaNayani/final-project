@@ -1,0 +1,6 @@
+
+{
+    "mongoURI": "mongodb://HinaNayani:insiyasakina@cluster0-shard-00-00.6wlka.mongodb.net:27017,cluster0-shard-00-01.6wlka.mongodb.net:27017,cluster0-shard-00-02.6wlka.mongodb.net:27017/node-demo?ssl=true&replicaSet=atlas-pqegnn-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "jwtSecret": "secret",
+    "githubToken": "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"
+  }
